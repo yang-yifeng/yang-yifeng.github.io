@@ -1,6 +1,6 @@
 ---
 layout: about
-title: BEng, PhD, FHEA
+title: about
 permalink: /
 subtitle: Research Fellow in Maritime Engineering, <a href='#'>Department of Mechanical Engineering, University College London</a>. 
 
