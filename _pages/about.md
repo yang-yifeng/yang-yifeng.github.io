@@ -27,6 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+I obtained my PhD in Mechanical Engineering from [University College London (UCL), UK](https://www.ucl.ac.uk/) in November 2023, after completing a BEng degree at [Zhejiang University, China](https://www.zju.edu.cn/english/) in 2019. My research lies in Marine Hydrodynamics, with a focus on the interaction of ocean surface waves with offshore structures, floating renewable devices, and sea ice in polar regions. Using analytical, numerical, and experimental approaches, I investigate the physical mechanisms underlying wave–structure interactions, with the main target of advancing the understanding of ocean dynamics and supporting safer and more resilient marine engineering.
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
