@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Department of Mechanical Engineering, University College London
+subtitle: Research Fellow in Maritime Engineering, <a href='#'>Department of Mechanical Engineering, University College London</a>. 
 
 profile:
   align: right
