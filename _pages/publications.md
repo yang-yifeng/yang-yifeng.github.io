@@ -15,10 +15,10 @@ nav_order: 2
 
 <div class="publications">
 
-## Journal publications
+<h2 class="section-title">journal publications</h2>
 {% bibliography --query @article --group_by year --group_order descending %}
 
-## Conference publications
+<h2 class="section-title">conference publications</h2>
 {% bibliography --query @inproceedings --group_by year --group_order descending %}
 
 </div>
