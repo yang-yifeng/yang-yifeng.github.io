@@ -22,9 +22,9 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  # scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  # limit: 3 # leave blank to include all the blog posts
 ---
 
 I obtained my PhD in Mechanical Engineering from [University College London (UCL), UK](https://www.ucl.ac.uk/) in November 2023, after completing a BEng degree at [Zhejiang University, China](https://www.zju.edu.cn/english/) in 2019. My research lies in Marine Hydrodynamics, with a focus on the interaction of ocean surface waves with offshore structures, floating renewable devices, and sea ice in polar regions. Using analytical, numerical, and experimental approaches, I investigate the physical mechanisms underlying wave–structure interactions, with the main target of advancing the understanding of ocean dynamics and supporting safer and more resilient marine engineering.
