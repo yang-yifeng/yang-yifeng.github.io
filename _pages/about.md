@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Research Fellow in Maritime Engineering, <a href='#'>Department of Mechanical Engineering, University College London</a>. 
 
