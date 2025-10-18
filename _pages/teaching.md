@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /teaching/
-title: Teaching
+title: Teaching / Supervision
 description: My university-level teaching and supervision experience
 nav: true
 nav_order: 6
