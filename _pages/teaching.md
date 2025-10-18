@@ -11,6 +11,7 @@ nav_order: 6
 
 <h3 class="section-title">Module Leader</h3>
 
-- **MECH0103: Ship Structures** — Module Leader, UCL (06/2024 – Now).  
-Covers the design and structural strength assessment of advanced marine vehicles, as well as advanced design and computational methods in ship engineering. I lead a team of one Tutor and two PGTAs, deliver MSc lectures, and coordinate all related activities. Received **100% student satisfaction** in end-of-term feedback.
- 
+**MECH0103: Ship Structures**  
+Module Coordinator, University College London (06/2024 – Now).  
+The module addresses the design and structural strength assessment of advanced marine vehicles, with emphasis on modern design principles and computational methods in ship engineering. As module coordinator, I oversee a teaching team comprising one Tutor and two PGTAs. My responsibilities include delivering lectures to MSc students and coordinating all associated teaching activities.
+
