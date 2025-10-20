@@ -420,7 +420,7 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "news-i-am-recognised-as-a-fellow-of-the-higher-education-academy-fhea-in-the-uk",
+          section: "News",},{id: "news-i-am-recognised-as-a-fellow-of-the-higher-education-academy-fhea-in-the-uk-smile",
           title: 'I am recognised as a Fellow of the Higher Education Academy (FHEA) in...',
           description: "",
           section: "News",},{id: "news-my-paper-a-uniform-current-passing-bodies-submerged-beneath-an-ice-sheet-at-critical-froude-numbers-is-published-in-the-journal-of-fluid-mechanics",
