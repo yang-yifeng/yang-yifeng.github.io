@@ -412,12 +412,10 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+            },},{id: "news-i-am-awarded-the-excellence-in-reviewing-award-from-ocean-engineering-sparkles",
+          title: 'I am awarded the excellence in reviewing award from Ocean Engineering :sparkles:.',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-i-am-invited-as-a-visiting-lecturer-at-its-indonesia-for-the-global-learning-series-gls-program-volcano",
+          section: "News",},{id: "news-i-am-invited-as-a-visiting-lecturer-at-its-indonesia-for-the-global-learning-series-gls-program-volcano",
           title: 'I am invited as a Visiting Lecturer at ITS, Indonesia for the global...',
           description: "",
           section: "News",},{id: "news-i-am-recognised-as-a-fellow-of-the-higher-education-academy-fhea-in-the-uk-smile",
