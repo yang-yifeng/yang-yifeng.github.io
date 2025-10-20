@@ -13,30 +13,34 @@ nav_order: 6
   border-left:4px solid var(--global-theme-color);
   padding-left:14px;
   margin:1.5rem 0 2rem;
+  font-size:1.05rem;   /* increase base font size slightly */
+  line-height:1.65;    /* add line-height for readability */
 }
-.teach-block p{ margin:.25rem 0; line-height:1.6; }
+
+.teach-block p{ margin:.25rem 0; }
 
 /* 1st line = title */
 .teach-block p:first-of-type{
   font-weight:700;
-  font-size:1.05rem;
+  font-size:1.12rem;   /* a touch bigger than body */
   margin-bottom:.35rem;
 }
 
 /* 2nd line = meta (role · org · dates) */
 .teach-block p:nth-of-type(2){
   opacity:.75;
-  font-size:.95rem;
+  font-size:1rem;
   margin-bottom:.35rem;
 }
 
 /* Mobile tweak */
 @media (max-width:640px){
-  .teach-block{ padding-left:12px; }
-  .teach-block p:first-of-type{ font-size:1.02rem; }
-  .teach-block p:nth-of-type(2){ font-size:.93rem; }
+  .teach-block{ padding-left:12px; font-size:1rem; }
+  .teach-block p:first-of-type{ font-size:1.08rem; }
+  .teach-block p:nth-of-type(2){ font-size:.95rem; }
 }
 </style>
+
 
 <h2 class="section-title">Teaching</h2>
 
@@ -55,7 +59,7 @@ nav_order: 6
 <div class="teach-block">
   <p><strong>ENGF0004: Mathematical Modelling and Analysis II</strong></p>
   <p>PGTA, University College London (09/2021–06/2023)</p>
-  <p>Delivered tutorials for second-year students (≈25% of the module), demonstrated assignment solutions, taught MATLAB, answered student questions, and supported coursework marking.</p>
+  <p>Delivered tutorials for second-year students (≈25% of the module), demonstrated assignment solutions, taught MATLAB, and supported coursework marking.</p>
 </div>
 
 <div class="teach-block">
