@@ -417,8 +417,8 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+            },},{id: "news-i-am-invited-as-a-visiting-lecturer-at-its-indonesia-for-the-global-learning-series-gls-program-volcano",
+          title: 'I am invited as a Visiting Lecturer at ITS, Indonesia for the global...',
           description: "",
           section: "News",},{id: "news-i-am-recognised-as-a-fellow-of-the-higher-education-academy-fhea-in-the-uk-smile",
           title: 'I am recognised as a Fellow of the Higher Education Academy (FHEA) in...',
