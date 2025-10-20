@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am recognised as a Fellow of the Higher Education Academy (FHEA) in the UK.
+I am recognised as a Fellow of the Higher Education Academy (FHEA) in the UK :smile:.
