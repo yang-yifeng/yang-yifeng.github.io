@@ -1,6 +1,6 @@
 ---
 layout: page
-title: HyAIce-Dr: Prediction of ice floe drift in MIZ
+title: Prediction of ice floe drift in MIZ (HyAIce-Dr)
 description: A hybrid hydrodynamic–AI framework for predicting ice floe drift in the Arctic marginal ice zone
 img: assets/img/ice_1.png
 importance: 1
