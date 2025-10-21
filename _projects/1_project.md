@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: HyAIce-Dr
+description: A Hybrid Hydrodynamic–AI Framework for Predicting Ice Floe
+Drift in the Arctic Marginal Ice Zone
+img: assets/img/ice_1.png
 importance: 1
 category: work
 related_publications: true
