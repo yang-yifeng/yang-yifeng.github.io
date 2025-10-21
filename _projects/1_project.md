@@ -1,8 +1,7 @@
 ---
 layout: page
 title: HyAIce-Dr
-description: A Hybrid Hydrodynamic–AI Framework for Predicting Ice Floe
-Drift in the Arctic Marginal Ice Zone
+description: A Hybrid Hydrodynamic–AI Framework for Predicting Ice Floe Drift in the Arctic Marginal Ice Zone
 img: assets/img/ice_1.png
 importance: 1
 category: work
