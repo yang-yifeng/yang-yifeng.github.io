@@ -432,9 +432,9 @@ ninja.data = [{
           description: "A Hybrid Hydrodynamic–AI Framework for Predicting Ice Floe Drift in the Arctic Marginal Ice Zone",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-hydrodynamics-in-icy-water-environments",
+          title: 'Hydrodynamics in icy water environments',
+          description: "Focus on modelling and uncovering the physical mechanisms in the three-way coupling of water waves, floating ice, and offshore structures.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-project-3-with-very-long-name",
