@@ -77,8 +77,22 @@ nav_order: 6
 <h2 class="section-title">(Co-)Supervision</h2>
 
 <div class="teach-block">
-  <p><strong>MECH0020: Undergraduate Individual Projects</strong></p>
-  <p><strong>MECH0070: MSc Individual Projects</strong></p>
+  
+  <p><strong>MECH0020: Undergraduate Individual Projects · MECH0070: MSc Individual Projects</strong></p>
   <p>(Co-)Supervisor, University College London (01/2020–Present)</p>
-  <p>Supervised undergraduate and MSc research projects, providing technical guidance in CFD (ANSYS Fluent, STAR-CCM+, OpenFOAM) and academic writing support.</p>
+  <p>
+    Supervised undergraduate and MSc research projects, providing technical guidance in CFD 
+    (ANSYS Fluent, STAR-CCM+, OpenFOAM) and academic writing support.
+  </p>
+  <p><em>Students who achieved first-class results:</em></p>
+  <ul>
+    <li>Jiafei Li (2022–2023, BEng)</li>
+    <li>Jinghan Wang (2022–2023, BEng)</li>
+    <li>Erik Zhou (2024–2025, BEng)</li>
+    <li>Hongyu Chen (2024–2025, BEng)</li>
+    <li>Zonghan Li (2024–2025, BEng)</li>
+    <li>Shengyu Chen (2022–2023, MSc)</li>
+    <li>Xintong Yu (2024–2025, MSc)</li>
+  </ul>
+  
 </div>
