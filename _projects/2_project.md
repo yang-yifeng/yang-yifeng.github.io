@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
-importance: 2
+title: Hydrodynamics in icy water environments
+description: Focus on modelling and uncovering the physical mechanisms in the three-way coupling of water waves, floating ice, and offshore structures.
+img: assets/img/ice_2.png
+importance: 1
 category: work
 giscus_comments: true
 ---
