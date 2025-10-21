@@ -427,9 +427,9 @@ ninja.data = [{
           section: "News",},{id: "news-my-research-project-hyaice-dr-a-hybrid-hydrodynamic-ai-framework-for-predicting-ice-floe-drift-in-the-arctic-marginal-ice-zone-has-been-awarded-funding-from-the-nerc-arctic-office-under-the-supporting-impactful-uk-arctic-science-engagement-scheme-earth-africa-ocean-snowflake",
           title: 'My research project “HyAIce-Dr: A Hybrid Hydrodynamic–AI Framework for Predicting Ice Floe Drift...',
           description: "",
-          section: "News",},{id: "projects-hyaice-dr",
-          title: 'HyAIce-Dr',
-          description: "A Hybrid Hydrodynamic–AI Framework for Predicting Ice Floe Drift in the Arctic Marginal Ice Zone",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-hydrodynamics-in-icy-water-environments",
