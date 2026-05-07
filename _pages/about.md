@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Fellow in Maritime Engineering, <a href='#'>Department of Mechanical Engineering, University College London</a>. 
+subtitle: Professor, <a href='#'>School of Civil Engineering & Transportation, South China University of Technology</a>. 
 
 profile:
   align: right
